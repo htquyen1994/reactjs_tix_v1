@@ -1,0 +1,22 @@
+[
+    {
+        "hinhAnh": "./images/banners/slide1.png",
+        "video": "https://www.youtube.com/watch?v=Ncwkodt5dA4"
+    },
+    {
+        "hinhAnh": "./images/banners/slide2.jpg",
+        "video": "https://www.youtube.com/watch?v=Ncwkodt5dA4"
+    },
+    {
+        "hinhAnh": "./images/banners/slide3.jpg",
+        "video": "https://www.youtube.com/watch?v=Ncwkodt5dA4"
+    },
+    {
+        "hinhAnh": "./images/banners/slide4.jpg",
+        "video": "https://www.youtube.com/watch?v=Ncwkodt5dA4"
+    },
+    {
+        "hinhAnh": "./images/banners/slide5.jpg",
+        "video": "https://www.youtube.com/watch?v=Ncwkodt5dA4"
+    }
+]
