@@ -1,0 +1,23 @@
+.wrapper-content {
+    height: 80px;
+    display: flex;
+    position: absolute;
+    background-color: gray;
+    margin-top: -50px;
+    justify-content: center;
+    margin: -40px auto;
+    width: 100%;
+    left: 0;
+    right: 0;
+    padding: 0;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgb(0 0 0 / 30%);
+    -webkit-box-shadow: 0 0 10px rgb(0 0 0 / 30%);
+}
+
+.item-search {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

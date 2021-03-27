@@ -5,6 +5,7 @@ import { BrowserRouter, Switch, Route } from "react-router-dom";
 import { routerMain } from './Config/router';
 import { fetchFirebaseCurrentUser } from './Redux/Actions/firebase.action';
 import { connect } from 'react-redux';
+import TrailerYoutube from './Components/TrailerYoutube';
 
 function App({fetchFirebaseCurrentUser}) {
 

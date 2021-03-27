@@ -1,26 +1,26 @@
 .play-movie {
-    /* position: absolute;
-    height: 100px;
-    line-height: 100px;
+    position: absolute;
+    height: 80px;
+    line-height: 80px;
     border: 1px solid;
     top: 50%;
-    color: green;
+    color: white;
     border-radius: 50%;
-    width: 100px;
+    width: 80px;
     text-align: center;
-    font-size: 37px;
+    font-size: 30px;
     cursor: pointer;
     left: 50%;
-    transform: translate(-50%, -50%); */
+    transform: translate(-50%, -50%);
+    background-color: gray;
+    opacity: 0.5;
+}
+
+.play-movie:hover {
+    opacity: 0.7;
+    transition: all 0.5s;
 }
 
 .wrapper {
-    display: flex !important;
-    align-items: center;
-    width: 100%;
-    justify-content: center;
-    background-position: center;
-    background-size: contain;
-    background-repeat: no-repeat;
-    height: 600px;
+    position: relative !important;
 }
